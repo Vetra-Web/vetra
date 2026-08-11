@@ -503,12 +503,12 @@ h2::after{
 }
 
 @media (max-width: 640px){
-  .header-inner{ padding: 16px 20px 8px; }
+  .header-inner{ padding: 16px 20px 8px; flex-wrap: wrap; row-gap: 8px; }
   .section-inner{ padding: 0 20px; }
   .hero-inner{ padding: 0 20px; }
-  .logo-img{ height: 132px; }
-  .welcome-text{ font-size: 18px; padding-inline-start: 32px; }
-  .welcome-text::before{ width: 22px; }
+  .logo-img{ height: 68px; }
+  .welcome-text{ font-size: 15px; padding-inline-start: 26px; }
+  .welcome-text::before{ width: 18px; }
 
   .nav-toggle{ display: flex; }
   .site-nav{ padding: 0 20px 14px; }
