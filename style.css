@@ -78,7 +78,7 @@ a{ color: inherit; text-decoration: none; }
 .logo-link{ display: inline-flex; align-items: center; }
 
 .logo-img{
-  height: 42px;
+  height: 68px;
   width: auto;
 }
 
@@ -505,7 +505,7 @@ h2::after{
   .header-inner{ padding: 16px 20px 8px; }
   .section-inner{ padding: 0 20px; }
   .hero-inner{ padding: 0 20px; }
-  .logo-img{ height: 32px; }
+  .logo-img{ height: 52px; }
   .welcome-text{ font-size: 12px; padding-inline-start: 24px; }
   .welcome-text::before{ width: 16px; }
 
